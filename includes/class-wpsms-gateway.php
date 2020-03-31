@@ -229,6 +229,7 @@ class Gateway {
 			'turkey'         => array(
 				'bulutfon' => 'bulutfon.com',
 				'verimor'  => 'verimor.com.tr',
+				'oplavus'  => 'oplavus.com.tr',
 			),
 			'austria'        => array(
 				'smsgateway' => 'sms-gateway.at',
